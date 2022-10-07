@@ -325,6 +325,29 @@ h1, h2, h3, h4, h5, h6 {
   text-transform: uppercase;
 }
 
+.btn-other {
+  font-family: "Dosis", sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  letter-spacing: 1px;
+  display: inline-block;
+  text-decoration: none;
+  padding: 6px 38px;
+  border-radius: 28px;
+  transition: 0.5s;
+  margin-top: 10%;
+  color: #49b5e7;
+  border: 2px solid #49b5e7;
+  /* text-transform: uppercase; */
+}
+
+#hero .btn-other:hover {
+  background-color: #49b5e7;
+  border: 2px solid #49b5e7;
+  color: #fff !important;
+  box-shadow: 1px 1px 1px 0px #b4d8e9;
+}
+
 #hero .btn-get-cv:hover {
   border: 2px solid #76c7ed;
   color: #76c7ed;
