@@ -299,14 +299,14 @@ h1, h2, h3, h4, h5, h6 {
   margin-top: 25px;
   color: #fff;
   background: #49b5e7;
-  border: 2px solid #49b5e7;
+  border: 3px solid #49b5e7;
   text-transform: uppercase;
 }
 
 #hero .btn-get-started:hover {
-  background: #76c7ed;
-  border: 2px solid #76c7ed;
-  box-shadow: 1px 1px 1px 0px #b4d8e9;
+  background: #1db3f8;
+  border: 3px solid #76c7ed;
+  box-shadow: 1px 1px 1px 1px #b4d8e9;
 }
 
 #hero .btn-get-cv {
@@ -321,7 +321,7 @@ h1, h2, h3, h4, h5, h6 {
   transition: 0.5s;
   margin-top: 25px;
   color: #49b5e7;
-  border: 2px solid #49b5e7;
+  border: 3px solid #49b5e7;
   text-transform: uppercase;
 }
 
@@ -337,20 +337,21 @@ h1, h2, h3, h4, h5, h6 {
   transition: 0.5s;
   margin-top: 10%;
   color: #49b5e7;
-  border: 2px solid #49b5e7;
+  border: 3px solid #49b5e7;
   /* text-transform: uppercase; */
 }
 
-#hero .btn-other:hover {
+.btn-other:hover {
   background-color: #49b5e7;
-  border: 2px solid #49b5e7;
+  border: 3px solid #49b5e7;
   color: #fff !important;
   box-shadow: 1px 1px 1px 0px #b4d8e9;
 }
 
 #hero .btn-get-cv:hover {
-  border: 2px solid #76c7ed;
-  color: #76c7ed;
+  background-color: #49b5e7;
+  border: 3px solid #49b5e7;
+  color: #fff !important;
 }
 
 @media (max-width: 991px) {
@@ -619,10 +620,10 @@ section {
   border-bottom: 1px solid #eee;
   overflow: hidden;
   background: #fff;
-  height: 120px;
+  height: 130px;
 }
 .clients .client-logo img {
-  height: 50%;
+  height: 10%;
   filter: grayscale(100%);
   transition: 0.3s;
 }
