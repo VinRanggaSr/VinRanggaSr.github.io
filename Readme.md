@@ -8,7 +8,7 @@ Here I will show my website portfolio. I hope someday you can work with us, to m
 
 ## Contact & Social Networks
 
-Web Portfolio: [vincentiusrangga.my.id](https://vinranggasr.github.io)
+Web Portfolio: [vincentiusrangga.my.id](https://vinranggasr.github.io) <br>
 gmail: vrangga1@gmail.com <br>
 LinkedIn: [Vincentius Rangga](http://www.linkedin.com/in/vincentius-rangga-453884242) <br>
 Dribbble: [Vincentius_rangga1](https://dribbble.com/Vincentius_rangga1) <br>
