@@ -18,7 +18,7 @@ a:hover {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Dosis", sans-serif;
+  font-family: "Open Sans", sans-serif;
 }
 
 /*--------------------------------------------------------------
@@ -69,7 +69,7 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 700;
   letter-spacing: 1px;
   text-transform: uppercase;
-  font-family: "Lato", sans-serif;
+  font-family: "Open Sans", sans-serif;
 }
 #header .logo a {
   color: #0f394c;
@@ -102,7 +102,7 @@ h1, h2, h3, h4, h5, h6 {
   align-items: center;
   justify-content: space-between;
   padding: 10px 0 10px 30px;
-  font-family: "Dosis", sans-serif;
+  font-family: "Open Sans", sans-serif;
   font-size: 15px;
   font-weight: 600;
   color: #0f394c;
@@ -287,7 +287,7 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 20px;
 }
 #hero .btn-get-started {
-  font-family: "Dosis", sans-serif;
+  font-family: "Open Sans", sans-serif;
   font-weight: 500;
   font-size: 16px;
   letter-spacing: 1px;
@@ -310,7 +310,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #hero .btn-get-cv {
-  font-family: "Dosis", sans-serif;
+  font-family: "Open Sans", sans-serif;
   font-weight: 600;
   font-size: 16px;
   letter-spacing: 1px;
@@ -326,7 +326,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .btn-other {
-  font-family: "Dosis", sans-serif;
+  font-family: "Open Sans", sans-serif;
   font-weight: 600;
   font-size: 16px;
   letter-spacing: 1px;
@@ -590,7 +590,7 @@ section {
   font-weight: 700;
   display: block;
   color: #49b5e7;
-  font-family: "Dosis", sans-serif;
+  font-family: "Open Sans", sans-serif;
 }
 .counts .counters p {
   padding: 0;
@@ -1181,7 +1181,7 @@ section {
 .breadcrumbs h2 {
   font-size: 28px;
   font-weight: 400;
-  font-family: "Lato", sans-serif;
+  font-family: "Open Sans", sans-serif;
 }
 .breadcrumbs ol {
   display: flex;
@@ -1209,6 +1209,9 @@ section {
   }
   .breadcrumbs ol li {
     display: inline-block;
+  }
+  .ilustrasi img{
+    display: none;
   }
 }
 
@@ -1286,7 +1289,7 @@ section {
   font-size: 14px;
   line-height: 24px;
   margin-bottom: 0;
-  font-family: "Lato", sans-serif;
+  font-family: "Open Sans", sans-serif;
   color: #777777;
 }
 #footer .footer-top h4 {
